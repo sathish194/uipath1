@@ -1,0 +1,43 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Arr_Files&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PDF_Excel.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_input&Sequence_1",
+        "Str_Remarks&Sequence_4",
+        "Str_Quantity&Sequence_4",
+        "Str_File&Sequence_1",
+        "Str_PartName&TryCatch_1",
+        "Str_Status&TryCatch_1",
+        "Str_PartNo&TryCatch_1",
+        "Str_item&TryCatch_1",
+        "Str_Temp&TryCatch_1",
+        "Table&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Arr_File"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
